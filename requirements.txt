@@ -4,6 +4,7 @@ djangorestframework==3.14.0
 django-cors-headers==4.7.0
 
 # Install backend packages:
+# pip install Pillow
 # pip install -r requirements.txt
 
 # Frontend / React dependencies (run from the frontend/ folder):
